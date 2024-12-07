@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/UttamKumar25/leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/UttamKumar25/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/UttamKumar25/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
