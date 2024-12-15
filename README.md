@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Divide and Conquer
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
@@ -62,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
