@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/UttamKumar25/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
