@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
+| [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
+| [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
