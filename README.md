@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Hash Table
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
