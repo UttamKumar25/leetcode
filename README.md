@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UttamKumar25/leetcode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
