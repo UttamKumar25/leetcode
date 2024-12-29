@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UttamKumar25/leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UttamKumar25/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UttamKumar25/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/UttamKumar25/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
