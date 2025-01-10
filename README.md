@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/UttamKumar25/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UttamKumar25/leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/UttamKumar25/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Breadth-First Search
