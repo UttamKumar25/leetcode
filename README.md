@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/UttamKumar25/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/UttamKumar25/leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/UttamKumar25/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0742-to-lower-case](https://github.com/UttamKumar25/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UttamKumar25/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
