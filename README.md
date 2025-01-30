@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/UttamKumar25/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/UttamKumar25/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UttamKumar25/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/UttamKumar25/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Array
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/UttamKumar25/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UttamKumar25/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/UttamKumar25/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
