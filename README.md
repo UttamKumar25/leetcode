@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/UttamKumar25/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UttamKumar25/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/UttamKumar25/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3429-special-array-i](https://github.com/UttamKumar25/leetcode/tree/master/3429-special-array-i) |
