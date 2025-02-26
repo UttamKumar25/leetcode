@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UttamKumar25/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UttamKumar25/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/UttamKumar25/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/UttamKumar25/leetcode/tree/master/0890-lemonade-change) |
