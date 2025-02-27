@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/UttamKumar25/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/UttamKumar25/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/UttamKumar25/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3429-special-array-i](https://github.com/UttamKumar25/leetcode/tree/master/3429-special-array-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/UttamKumar25/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/UttamKumar25/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
