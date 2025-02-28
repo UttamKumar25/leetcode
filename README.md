@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/UttamKumar25/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/UttamKumar25/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UttamKumar25/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/UttamKumar25/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/UttamKumar25/leetcode/tree/master/0231-power-of-two) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
