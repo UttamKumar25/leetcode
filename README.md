@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/UttamKumar25/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/UttamKumar25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-lemonade-change](https://github.com/UttamKumar25/leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/UttamKumar25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/UttamKumar25/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/UttamKumar25/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UttamKumar25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/UttamKumar25/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
