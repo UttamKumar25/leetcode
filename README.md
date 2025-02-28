@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/UttamKumar25/leetcode/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/UttamKumar25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/UttamKumar25/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/UttamKumar25/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/UttamKumar25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Greedy
 |  |
 | ------- |
