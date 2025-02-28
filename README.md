@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/UttamKumar25/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/UttamKumar25/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/UttamKumar25/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/UttamKumar25/leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UttamKumar25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/UttamKumar25/leetcode/tree/master/0231-power-of-two) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UttamKumar25/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
