@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
+| [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/UttamKumar25/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UttamKumar25/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
