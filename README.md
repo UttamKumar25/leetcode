@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UttamKumar25/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/UttamKumar25/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UttamKumar25/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
