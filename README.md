@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/UttamKumar25/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2665-minimum-time-to-repair-cars](https://github.com/UttamKumar25/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/UttamKumar25/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/UttamKumar25/leetcode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [2665-minimum-time-to-repair-cars](https://github.com/UttamKumar25/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Dynamic Programming
 |  |
 | ------- |
