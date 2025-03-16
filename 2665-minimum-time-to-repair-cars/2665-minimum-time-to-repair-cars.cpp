@@ -1,44 +1,29 @@
+#include <cmath>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
-    long repairCars(vector<int>& ranks, int cars) {
-        int minRank = ranks[0], maxRank = ranks[0];
-
-        // Find min and max rank dynamically
-        for (int rank : ranks) {
-            minRank = min(minRank, rank);
-            maxRank = max(maxRank, rank);
+    bool timeIsSuff(vector<int>& ranks, int cars, long long minGiven) {
+        long long carsDone = 0;
+        for (int r : ranks) {
+            long long c2 = minGiven / r;
+            long long c = floor(sqrt(c2));
+            carsDone += c;
         }
-
-        // Frequency array to count mechanics with each rank
-        vector<int> freq(maxRank + 1);
-        for (int rank : ranks) {
-            minRank = min(minRank, rank);
-            freq[rank]++;
-        }
-
-        // Minimum possible time, Maximum possible time
-        long long low = 1, high = 1LL * minRank * cars * cars;
-
-        // Perform binary search to find the minimum time required
-        while (low < high) {
-            long long mid = (low + high) / 2;
-            long long carsRepaired = 0;
-
-            // Calculate the total number of cars that can be repaired in 'mid'
-            // time
-            for (int rank = 1; rank <= maxRank; rank++) {
-                carsRepaired +=
-                    freq[rank] * (long long)sqrt(mid / (long long)rank);
-            }
-
-            // Adjust the search boundaries based on the number of cars repaired
-            if (carsRepaired >= cars) {
-                high = mid;  // Try to find a smaller time
+        return carsDone >= cars;
+    }
+    
+    long long repairCars(vector<int>& ranks, int cars) {
+        long long l = 1, r = 1e14;
+        while (l < r) {
+            long long mid = (l + r) / 2;
+            if (timeIsSuff(ranks, cars, mid)) {
+                r = mid;
             } else {
-                low = mid + 1;  // Need more time
+                l = mid + 1;
             }
         }
-
-        return low;
+        return l;
     }
 };
