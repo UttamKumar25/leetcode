@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UttamKumar25/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UttamKumar25/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/UttamKumar25/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/UttamKumar25/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/UttamKumar25/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UttamKumar25/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/UttamKumar25/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UttamKumar25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/UttamKumar25/leetcode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/UttamKumar25/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
