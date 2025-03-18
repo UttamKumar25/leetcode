@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/UttamKumar25/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/UttamKumar25/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UttamKumar25/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/UttamKumar25/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/UttamKumar25/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2665-minimum-time-to-repair-cars](https://github.com/UttamKumar25/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/UttamKumar25/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UttamKumar25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UttamKumar25/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/UttamKumar25/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/UttamKumar25/leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
