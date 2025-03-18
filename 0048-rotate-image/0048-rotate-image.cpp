@@ -5,7 +5,7 @@ public:
 
     // Step 1: Transpose (convert rows into columns)
     for (int i = 0; i < n; i++) {
-        for (int j = i + 1; j < n; j++) { // j = i+1 to avoid double swap
+        for (int j = 0; j <=i; j++) { //to avoid double swap
             swap(matrix[i][j], matrix[j][i]);
         }
     }
