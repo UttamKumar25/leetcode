@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/UttamKumar25/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/UttamKumar25/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/UttamKumar25/leetcode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3533-snake-in-matrix](https://github.com/UttamKumar25/leetcode/tree/master/3533-snake-in-matrix) |
 ## Divide and Conquer
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UttamKumar25/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UttamKumar25/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/UttamKumar25/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -280,4 +283,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/UttamKumar25/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
