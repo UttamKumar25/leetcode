@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
+| [0152-maximum-product-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/UttamKumar25/leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/UttamKumar25/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/UttamKumar25/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
