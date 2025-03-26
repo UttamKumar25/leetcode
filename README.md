@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UttamKumar25/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/UttamKumar25/leetcode/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/UttamKumar25/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/UttamKumar25/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/UttamKumar25/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UttamKumar25/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UttamKumar25/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/UttamKumar25/leetcode/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/UttamKumar25/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [2665-minimum-time-to-repair-cars](https://github.com/UttamKumar25/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Dynamic Programming
