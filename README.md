@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/UttamKumar25/leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/UttamKumar25/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/UttamKumar25/leetcode/tree/master/0917-boats-to-save-people) |
+| [1039-find-the-town-judge](https://github.com/UttamKumar25/leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/UttamKumar25/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UttamKumar25/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UttamKumar25/leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/UttamKumar25/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/UttamKumar25/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1039-find-the-town-judge](https://github.com/UttamKumar25/leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/UttamKumar25/leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/UttamKumar25/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/UttamKumar25/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/UttamKumar25/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/UttamKumar25/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
